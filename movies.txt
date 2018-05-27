@@ -1,39 +1,39 @@
 [
 
-  { "movie_title"     : "The Social Network",
-    "movie_storyline" : "The film portrays the founding of social networking website Facebook.",
-    "poster_image"    : "https://upload.wikimedia.org/wikipedia/en/7/7a/Social_network_film_poster.jpg",
-    "trailer_youtube" : "https://www.youtube.com/watch?v=2RB3edZyeYw"
+  {"movie_title": "The Social Network",
+    "movie_storyline": "The film portrays the founding of social networking website Facebook.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Social_network_film_poster.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=2RB3edZyeYw"
   },
 
-  { "movie_title"     : "Muhammad Ali",
-    "movie_storyline" : "Muhammad Ali as told from the perspectives opponents he faced.",
-    "poster_image"    : "https://upload.wikimedia.org/wikipedia/en/f/fb/Facing_Ali_DVD_cover.jpg",
-    "trailer_youtube" : "https://www.youtube.com/watch?v=9M6PLAiguds&list"
+  {"movie_title": "Muhammad Ali",
+    "movie_storyline": "Muhammad Ali as told from the perspectives opponents he faced.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Facing_Ali_DVD_cover.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=9M6PLAiguds&list"
   },
 
-  { "movie_title"     : "The Beach",
-    "movie_storyline" : "Based on the 1996 novel by Alex Garland, adventures, friendship, and more.",
-    "poster_image"    : "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Beach_film.jpg/200px-The_Beach_film.jpg",
-    "trailer_youtube" : "https://www.youtube.com/watch?v=uTDVnwwQNTw"
+  {"movie_title": "The Beach",
+    "movie_storyline": "Based on the 1996 novel by Alex Garland, adventures, friendship, and more.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Beach_film.jpg/200px-The_Beach_film.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=uTDVnwwQNTw"
   },
 
-  { "movie_title"     : "Daddy's Home 2",
-    "movie_storyline" : "American Christmas comedy film, newfound partnership is put to the test.",
-    "poster_image"    : "https://upload.wikimedia.org/wikipedia/en/0/08/Daddy%27s_Home_2.png",
-    "trailer_youtube" : "https://www.youtube.com/watch?v=p8shgJX14HQ"
+  {"movie_title": "Daddy's Home 2",
+    "movie_storyline": "American Christmas comedy film, newfound partnership is put to the test.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/0/08/Daddy%27s_Home_2.png",
+    "trailer_youtube": "https://www.youtube.com/watch?v=P3jaYuQA92o"
   },
 
-  { "movie_title"     : "DeadPool 2",
-    "movie_storyline" : "American superhero film that journeys around the world to discover the importance of family.",
-    "poster_image"    : "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
-    "trailer_youtube" : "https://www.youtube.com/watch?v=D86RtevtfrA"
+  {"movie_title": "DeadPool 2",
+    "movie_storyline": "American superhero film that journeys around the world to discover the importance of family.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
+    "trailer_youtube": "https://www.youtube.com/watch?v=D86RtevtfrA"
   },
 
-  { "movie_title"     : "Ghostbusters",
-    "movie_storyline" : "American comedy film about ghost-catching business in New York City.",
-    "poster_image"    : "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghostbusters_%281984%29_theatrical_poster.png",
-    "trailer_youtube" : "https://www.youtube.com/watch?v=vntAEVjPBzQ"
+  {"movie_title": "Ghostbusters",
+    "movie_storyline": "American comedy film about ghost-catching business in New York City.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Ghostbusters_%281984%29_theatrical_poster.png",
+    "trailer_youtube": "https://www.youtube.com/watch?v=EQCCPP8aZBY"
   }
 
 ]
