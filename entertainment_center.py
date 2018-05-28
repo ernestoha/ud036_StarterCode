@@ -4,7 +4,12 @@ import json
 
 
 def get_movies():
-    # Parse Json "movies.txt" file and return a media.Movie array.
+    """ Parse Json "movies.txt" file to get the movies.
+    Returns
+    -------
+    array
+        Movies Collection
+    """
     movies = []
     json_movies = json.load(open('movies.txt'))
     for json_movie in json_movies:
